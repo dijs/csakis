@@ -10,7 +10,7 @@
 	section_two_image: 'https://scontent.fsbz1-2.fna.fbcdn.net/v/t31.0-8/13920430_1754485428163162_5558796261105781116_o.jpg?oh=e7b4339b9e7171aaa97aeed4fb11aa5b&oe=599575A5',
 	$section_two_image_type: 'image',
 	$banner_image_type: 'image',
-	banner_image: 'http://res.cloudinary.com/csakis-fesztival/image/upload/c_scale,w_1371/v1491554140/CSAKISbannerlong-withdates_u1k9ml.jpg',
+	banner_image: 'http://res.cloudinary.com/csakis-fesztival/image/upload/v1492525308/CSAKISwebbanner_tdtw3v.png',
 	$logo_type: 'image',
 	logo: 'http://res.cloudinary.com/csakis-fesztival/image/upload/v1491554139/CSAKISsquareTRANSPARENTjustlogo_f90dn3.png'
 }
