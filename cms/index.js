@@ -1,9 +1,9 @@
 {
-	title: 'Csakis Családos Keresztény Fesztivál!',
+	title: 'Csakis Családos Keresztyén Fesztivál!',
 	greeting: 'Welcome!',
 	subtitle: 'We love Jesus!',
 	section_one_title: 'CSAKIS idén is!',
-	section_one_body_text: 'CSAKIS idén is!\n\nII. CSAKIS Családos Keresztény Fesztivál Kézdivásárhelyen\n\n\nÖrömmel értesítjük, hogy Székelyföldön, Kézdivásárhelyen, 2017. július 7.- 9. között második alkalommal szervezzük meg a Családos Keresztény Fesztivált.\nE sportcsarnokban és környékén megtartandó eseménnyel egy nyári pihenési és töltekezési lehetőséget szeretnénk biztosítani a családoknak. Fesztiválunk programja és légköre kimondottan Keresztény lesz, ahol áhítatokkal, előadásokkal, lelkigondozói- és fórumbeszélgetésekkel kívánjuk erősíteni házasságainkat Isten segedelmével. Emellett sok játék, gyerekfoglalkozás, ifjúsági program, vetélkedő, sport és koncertek várnak kedves vendégeinkre.\nA fesztivál fő előadója Dr. Komlósi Piroska családterapeuta, nagycsaládos családgondozó. Esténként zenei élményt szolgáltat, dicsőítést vezet a Reménység együttes, Csiszér László és Szabó Balázs.\nA bejelentkező családoknak tudunk segíteni az étkezés és szállás megszervezésében, illetve kisérőprogramok kínálásával fesztiválunk előtt és után.\nHamarosan részletes programmal jelentkezünk, amelyet a http://www.csakis.net/ oldalon, illetve az esemény Facebook oldalán teszünk közzé a Csakis Családos Keresztény Fesztivál név alatt.\nVárunk szeretettel minden családot,\nA szervező csapat',
+	section_one_body_text: 'III. CSAKIS Családos Keresztyén  Fesztivál Kézdivásárhelyen\n<br/><br/> \n\nLátván a családos programok szükségességét , idén is megszervezzük a Csakis Családos Keresztyén Fesztivált Kézdivásárhelyen. <br/>\n2016 és 2017 nyarán több száz  érdeklődő vett részt a fesztiválon.<br/> Ebben az évben is  lehet számítani a házastársi kapcsolatot építő előadásra, beszélgetésre a gyemeknevelésről, gyermekfoglalkozásra , koncertekre és családos játékokra.<br/>\nAz idei programot hamarosan közöljük.',
 	section_two_title: 'Kézdivásárhelyi Sportcsarnok és környéke',
 	section_two_body_text: 'itt vagyunk. google map link itt van.',
 	section_three_title: 'Magunkról',
@@ -19,7 +19,7 @@
 	section_four_image: 'https://scontent.fsbz1-2.fna.fbcdn.net/v/t1.0-9/13939386_1756874724590899_2696227255947323066_n.jpg?oh=dc07009d73ba07e2cef8f958a15e39d1&oe=59CB6083',
 	$section_four_image_type: 'image',
 	$banner_image_type: 'image',
-	banner_image: 'http://res.cloudinary.com/csakis-fesztival/image/upload/v1492525308/CSAKISwebbanner_tdtw3v.png',
+	banner_image: 'http://res.cloudinary.com/csakis-fesztival/image/upload/v1520444389/2018-CSAKISposterHorNEW_lqsags.jpg',
 	$logo_type: 'image',
 	logo: 'http://res.cloudinary.com/csakis-fesztival/image/upload/v1491554139/CSAKISsquareTRANSPARENTjustlogo_f90dn3.png'
 }
