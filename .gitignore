@@ -5,3 +5,5 @@ assets/img/uploaded
 .DS_Store
 remote/
 juicebox/
+_generated/
+package-lock.json

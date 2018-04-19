@@ -23,6 +23,21 @@
     <link href="/assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css" />
+
+    <style>
+    .gallery {
+        margin: auto;
+        padding: 20px;
+        width: 90%;
+    }
+    .slick-arrow:before {
+        color: black;
+    }
+    </style>
+
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -200,6 +215,13 @@
     </div>
     <!-- /.banner -->
 
+
+    <div class="gallery">
+    {{#each gallery}}
+        <img src="{{gallery_image}}" height="300">
+    {{/each}}
+    </div>
+
     <!-- Footer -->
     <footer>
         <div class="container">
@@ -229,6 +251,16 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="/assets/js/bootstrap.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+
+    <script>
+        $(document).ready(function(){
+          $('.gallery').slick({
+            variableWidth: true
+          });
+        });
+    </script>
 
     {{>end}}
 
