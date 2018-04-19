@@ -1,3 +1,10 @@
 .intro-header {
-	padding: 1rem;
+  padding: 1rem;
+}
+img.gallery-image {
+  width: auto !important;
+  height: 100px;
+  .slick-slide img {
+    width: auto;
+  }
 }
