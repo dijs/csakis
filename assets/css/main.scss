@@ -3,7 +3,8 @@
 }
 img.gallery-image {
   width: auto !important;
-  height: 100px;
+  height: 250px !important;
+  margin: 1rem;
   .slick-slide img {
     width: auto;
   }
