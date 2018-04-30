@@ -218,7 +218,10 @@
 
     <div class="gallery">
     {{#each gallery}}
-        <img class="gallery-image" src="{{gallery_image}}" height="300">
+        <div class="gallery-image">
+            <img class="gallery-image" src="{{gallery_image}}" height="300">
+            <div class="gallery-image-title">{{title}}</div>
+        </div>
     {{/each}}
     </div>
 

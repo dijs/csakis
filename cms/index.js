@@ -25,15 +25,18 @@
 	gallery: [
 		{
 			$gallery_image_type: 'image',
-			gallery_image: 'https://scontent-otp1-1.xx.fbcdn.net/v/t31.0-8/20369627_1929072440704459_8224573323586722876_o.jpg?_nc_cat=0&oh=5ab9f2bc96a2324e72ad699cf004f7ee&oe=5B5F4D3A'
+			gallery_image: 'https://scontent-otp1-1.xx.fbcdn.net/v/t31.0-8/20369627_1929072440704459_8224573323586722876_o.jpg?_nc_cat=0&oh=5ab9f2bc96a2324e72ad699cf004f7ee&oe=5B5F4D3A',
+			title: 'Park'
 		},
 		{
 			$gallery_image_type: 'image',
-			gallery_image: 'https://scontent-otp1-1.xx.fbcdn.net/v/t1.0-9/19748667_1918253578453012_5251767305712287294_n.jpg?_nc_cat=0&oh=80b35e1d1126ad7206ae471de288f626&oe=5B54EFEA'
+			gallery_image: 'https://scontent-otp1-1.xx.fbcdn.net/v/t1.0-9/19748667_1918253578453012_5251767305712287294_n.jpg?_nc_cat=0&oh=80b35e1d1126ad7206ae471de288f626&oe=5B54EFEA',
+			title: 'Ball'
 		},
 		{
 			$gallery_image_type: 'image',
-			gallery_image: 'https://scontent-otp1-1.xx.fbcdn.net/v/t1.0-9/19905146_1918267268451643_2310872946314239739_n.jpg?_nc_cat=0&oh=3f6c704bf86c9407563e6ef131be33ec&oe=5B67731C'
+			gallery_image: 'https://scontent-otp1-1.xx.fbcdn.net/v/t1.0-9/19905146_1918267268451643_2310872946314239739_n.jpg?_nc_cat=0&oh=3f6c704bf86c9407563e6ef131be33ec&oe=5B67731C',
+			title: 'Stage'
 		}
 	]
 }
